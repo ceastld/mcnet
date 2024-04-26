@@ -31,3 +31,5 @@ Werkzeug
 zipp
 
 imageio[ffmpeg]
+einops
+torchdiffeq

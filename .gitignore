@@ -1,3 +1,6 @@
 *.tar
 *.mp4
 log
+__pycache__
+*.jpg
+video
